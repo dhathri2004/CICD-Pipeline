@@ -24,10 +24,6 @@
                 └── templates                       # HTML templates
 
 
-
-
-
-
 <img width="2778" height="1070" alt="image" src="https://github.com/user-attachments/assets/b79f00f7-55f0-4cf8-93b4-075816d52d54" />
 
 
