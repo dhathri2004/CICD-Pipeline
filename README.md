@@ -22,3 +22,15 @@
                 │   └── js
                 │       └── main.js
                 └── templates                       # HTML templates
+
+
+
+
+
+
+<img width="2778" height="1070" alt="image" src="https://github.com/user-attachments/assets/b79f00f7-55f0-4cf8-93b4-075816d52d54" />
+
+
+<img width="2862" height="1240" alt="image" src="https://github.com/user-attachments/assets/1f031adf-1d0d-415e-981e-2db57722521e" />
+
+
