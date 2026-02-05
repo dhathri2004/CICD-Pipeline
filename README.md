@@ -1,4 +1,4 @@
-Welcome to the **Spring Boot Application CI/CD Pipeline** project! This repository demonstrates how I designed and implemented a Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Spring Boot application using a variety of modern tools and technologies.
+Welcome to the ** Application CI/CD Pipeline** project! This repository demonstrates how I designed and implemented a Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Spring Boot application using a variety of modern tools and technologies.
 
 ---
 
